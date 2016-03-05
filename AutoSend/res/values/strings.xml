@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">来电管家</string>
+    <string name="d_open">DrawerOpen</string>
+    <string name="d_close">DrawerClose</string>
+</resources>
